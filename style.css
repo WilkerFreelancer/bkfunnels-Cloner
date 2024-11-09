@@ -1713,7 +1713,7 @@ img,video {
 
 progress {
     width: 100%;
-    height: 30px; /* Ajuste a altura da barra */
+    height: 14px; /* Ajuste a altura da barra */
     appearance: none;
     border-radius: 10px;
 }
@@ -1724,7 +1724,7 @@ progress::-webkit-progress-bar {
 }
 
 progress::-webkit-progress-value {
-    background-color: #4caf50;
+    background-color:rgb(56, 209, 0);
     border-radius: 10px;
 }
 
